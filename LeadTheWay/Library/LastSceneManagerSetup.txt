@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/1.ekran.unity
+- path: Assets/MazeGenerator/demo.unity
   isLoaded: 1
   isActive: 1

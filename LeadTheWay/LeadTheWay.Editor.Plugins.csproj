@@ -121,6 +121,10 @@
       <Project>{E7BAAC84-A6DA-EDAC-D952-6FA1E4D47E28}</Project>
       <Name>LeadTheWay.Plugins</Name>
     </ProjectReference>
+    <ProjectReference Include="LeadTheWay.csproj">
+      <Project>{1B8A2445-830B-C15B-222F-B9546DA5EF16}</Project>
+      <Name>LeadTheWay</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
