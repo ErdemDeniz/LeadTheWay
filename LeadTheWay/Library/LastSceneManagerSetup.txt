@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/MazeGenerator/demo.unity
+- path: Assets/birinciEkran.unity
   isLoaded: 1
   isActive: 1
